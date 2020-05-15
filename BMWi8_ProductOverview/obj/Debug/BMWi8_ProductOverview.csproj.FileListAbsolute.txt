@@ -1,0 +1,25 @@
+E:\TUGASKULIAH\PRAKTIKUMDKP\TUGAS BESAR\BMWi8_ProductOverview\bin\Debug\BMWi8_ProductOverview.exe.config
+E:\TUGASKULIAH\PRAKTIKUMDKP\TUGAS BESAR\BMWi8_ProductOverview\bin\Debug\BMWi8_ProductOverview.exe
+E:\TUGASKULIAH\PRAKTIKUMDKP\TUGAS BESAR\BMWi8_ProductOverview\bin\Debug\BMWi8_ProductOverview.pdb
+E:\TUGASKULIAH\PRAKTIKUMDKP\TUGAS BESAR\BMWi8_ProductOverview\bin\Debug\Guna.UI2.dll
+E:\TUGASKULIAH\PRAKTIKUMDKP\TUGAS BESAR\BMWi8_ProductOverview\obj\Debug\BMWi8_ProductOverview.csprojAssemblyReference.cache
+E:\TUGASKULIAH\PRAKTIKUMDKP\TUGAS BESAR\BMWi8_ProductOverview\obj\Debug\BMWi8_ProductOverview.Form1.resources
+E:\TUGASKULIAH\PRAKTIKUMDKP\TUGAS BESAR\BMWi8_ProductOverview\obj\Debug\BMWi8_ProductOverview.Properties.Resources.resources
+E:\TUGASKULIAH\PRAKTIKUMDKP\TUGAS BESAR\BMWi8_ProductOverview\obj\Debug\BMWi8_ProductOverview.csproj.GenerateResource.cache
+E:\TUGASKULIAH\PRAKTIKUMDKP\TUGAS BESAR\BMWi8_ProductOverview\obj\Debug\BMWi8_ProductOverview.csproj.CoreCompileInputs.cache
+E:\TUGASKULIAH\PRAKTIKUMDKP\TUGAS BESAR\BMWi8_ProductOverview\obj\Debug\BMWi8_ProductOverview.csproj.CopyComplete
+E:\TUGASKULIAH\PRAKTIKUMDKP\TUGAS BESAR\BMWi8_ProductOverview\obj\Debug\BMWi8_ProductOverview.exe
+E:\TUGASKULIAH\PRAKTIKUMDKP\TUGAS BESAR\BMWi8_ProductOverview\obj\Debug\BMWi8_ProductOverview.pdb
+E:\TUGASKULIAH\PRAKTIKUMDKP\TUGAS BESAR\BMWi8_ProductOverview\obj\Debug\BMWi8_ProductOverview.Login.resources
+E:\TUGASKULIAH\PRAKTIKUMDKP\TugasBesar_MuhammadIlham\BMWi8_ProductOverview\bin\Debug\BMWi8_ProductOverview.exe.config
+E:\TUGASKULIAH\PRAKTIKUMDKP\TugasBesar_MuhammadIlham\BMWi8_ProductOverview\bin\Debug\BMWi8_ProductOverview.exe
+E:\TUGASKULIAH\PRAKTIKUMDKP\TugasBesar_MuhammadIlham\BMWi8_ProductOverview\bin\Debug\BMWi8_ProductOverview.pdb
+E:\TUGASKULIAH\PRAKTIKUMDKP\TugasBesar_MuhammadIlham\BMWi8_ProductOverview\obj\Debug\BMWi8_ProductOverview.csprojAssemblyReference.cache
+E:\TUGASKULIAH\PRAKTIKUMDKP\TugasBesar_MuhammadIlham\BMWi8_ProductOverview\obj\Debug\BMWi8_ProductOverview.Form1.resources
+E:\TUGASKULIAH\PRAKTIKUMDKP\TugasBesar_MuhammadIlham\BMWi8_ProductOverview\obj\Debug\BMWi8_ProductOverview.Login.resources
+E:\TUGASKULIAH\PRAKTIKUMDKP\TugasBesar_MuhammadIlham\BMWi8_ProductOverview\obj\Debug\BMWi8_ProductOverview.Properties.Resources.resources
+E:\TUGASKULIAH\PRAKTIKUMDKP\TugasBesar_MuhammadIlham\BMWi8_ProductOverview\obj\Debug\BMWi8_ProductOverview.csproj.GenerateResource.cache
+E:\TUGASKULIAH\PRAKTIKUMDKP\TugasBesar_MuhammadIlham\BMWi8_ProductOverview\obj\Debug\BMWi8_ProductOverview.csproj.CoreCompileInputs.cache
+E:\TUGASKULIAH\PRAKTIKUMDKP\TugasBesar_MuhammadIlham\BMWi8_ProductOverview\obj\Debug\BMWi8_ProductOverview.csproj.CopyComplete
+E:\TUGASKULIAH\PRAKTIKUMDKP\TugasBesar_MuhammadIlham\BMWi8_ProductOverview\obj\Debug\BMWi8_ProductOverview.exe
+E:\TUGASKULIAH\PRAKTIKUMDKP\TugasBesar_MuhammadIlham\BMWi8_ProductOverview\obj\Debug\BMWi8_ProductOverview.pdb
